@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_c39e1e54",
+        "filename": ".idea/src/test.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1007243
+      },
+      "writtenOn": "2016-01-24T10:14:21Z",
+      "side": 1,
+      "message": "Zmień tytuł",
+      "range": {
+        "startLine": 5,
+        "startChar": 4,
+        "endLine": 5,
+        "endChar": 24
+      },
+      "revId": "33b5995abf66774eae2271989d3d74f6e8b29b71",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
